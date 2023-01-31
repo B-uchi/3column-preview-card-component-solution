@@ -7,6 +7,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  
+## Preview Link
+[Click Here](https://b-uchi.github.io/3column-preview-card-component-solution/)
 
 ## Overview
 
